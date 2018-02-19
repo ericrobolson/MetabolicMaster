@@ -38,7 +38,9 @@ app.get('weight_delta/:user_id/:num_days', function(req, res){
 	var dif6 = 187-185;
 	var dif7 = 185 - 184;
 	
-	var avg_delta = (dif1 + dif2 + dif3 + dif4 + dif5 + dif6 + dif7) / num_days;
+	var daily_avg_delta = (dif1 + dif2 + dif3 + dif4 + dif5 + dif6 + dif7) / num_days;
+	
+	return daily_avg_delta;
 	*/
 	res.status(501).send('not implemented');
 });

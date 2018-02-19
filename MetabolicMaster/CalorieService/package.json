@@ -1,0 +1,14 @@
+{
+  "name": "calorieservice",
+  "version": "1.0.0",
+  "description": "Service to manage a user's daily calories.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Olson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
