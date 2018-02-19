@@ -1,0 +1,14 @@
+{
+  "name": "weightservice",
+  "version": "1.0.0",
+  "description": "Microservice to manage weight entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Olson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
