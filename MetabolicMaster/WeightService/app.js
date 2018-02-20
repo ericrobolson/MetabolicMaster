@@ -1,3 +1,5 @@
+// Copyright (c) 2018, Eric Olson
+
 // Weight service
 var express = require('express');
 var app = express();

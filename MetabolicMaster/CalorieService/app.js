@@ -1,3 +1,6 @@
+// Copyright (c) 2018, Eric Olson
+
+
 var express = require('express');
 var app = express();
 

@@ -1,3 +1,5 @@
+// Copyright (c) 2018, Eric Olson
+
 // User service
 
 var express = require('express');
