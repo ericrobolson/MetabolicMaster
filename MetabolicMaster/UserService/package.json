@@ -9,6 +9,7 @@
   "author": "Eric Olson",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "sqlite3": "^3.1.13"
   }
 }
